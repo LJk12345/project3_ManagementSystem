@@ -12,7 +12,7 @@
 html5、element ui、axios、vue、vue-cli、vue-router、vuex、ES6
 ### 运行准备  
 1、安装node服务  
-2、安装mysql数据库，并导入创建weike数据库  
+2、安装mysql数据库和数据库管理软件（本人使用的是Navicat），并导入创建weike数据库  
 3、修改edu-server -> config -> index.js配置文件中的数据库配置user和password
 4、本项目为一个vue项目，因此需按需安装第三包，本项目采用的包安装方式为yarn安装方式
 yarn -v：             检查yarn是否存在  
